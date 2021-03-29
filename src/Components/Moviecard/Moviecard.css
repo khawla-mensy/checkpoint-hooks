@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(0, 5, 4, 0.945);
+    color: white;
+}
+.poster {
+    padding: 20px;
+}
+
+.INFORMATIONS {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

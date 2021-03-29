@@ -1,0 +1,12 @@
+.App {
+    text-align: center;
+}
+
+.movieList {
+    padding: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.header {
+    margin: 50px;
+}
